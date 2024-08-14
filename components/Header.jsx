@@ -1,5 +1,4 @@
 import ThemeToggler  from './ThemeToggler';
-
 const Header = () => {
   return (
     <header>
